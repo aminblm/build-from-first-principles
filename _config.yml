@@ -1,0 +1,17 @@
+title: Build From First Principles
+url: https://aminblm.github.io/build-from-first-principles
+description: Rebuilding enterprise systems and AI from first principles.
+theme: jekyll-theme-cayman
+permalink: /:title/
+baseurl: "/build-from-first-principles"
+blogurl: https://aminblm.github.io/ai_systems_design_from_scratch/blog
+author: 
+  name: "Amin Boulouma"
+  bio: "Software Engineer"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
